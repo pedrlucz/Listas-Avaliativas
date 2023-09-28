@@ -18,27 +18,20 @@ int main(){
 
   int nOriginal = n;
   
-  if(n==0){
-    printf("A soma dos algarismos de 0 eh igual a 0\n");
-          }
-    
-  else{
-     while (n != 0) {
+  
+  while (n != 0) {
       
         digito = n % 10; 
         soma += digito;       
         n /= 10;  
       
                     }
-        }  
+         
     
-  if(nOriginal!=0){
+  
   printf("A soma dos algarismos de %d eh %d\n", nOriginal,soma);
 
-  }
-  else{
-    
-  }
+  
   
   return 0;
 }

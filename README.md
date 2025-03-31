@@ -1,9 +1,5 @@
 # Listas Avaliativas: C >  README.md
 
-1 - Listas Avaliativas -
-
-   Repartição?
-
    - Primeira Lista  
    Nivelamento
 
